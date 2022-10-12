@@ -1,4 +1,4 @@
-Index,CreditLimit,SEX,EDUCATION,MARRIAGE,AGE,SepRepay,AugRepay,JulRepay,JunRepay,MayRepay,AprilRepay,SepBillAmt,AugBillAmt,JulyBillAmt,JunBillAmt,MayBillAmt,AprBillAmt,SepPmt,AugPmt,JulPmt,JunPmt,MayPmt,AprPmt,Default_Status
+Index,CreditLimit,SEX,EDUCATION,MARRIAGE,AGE,SepRepay,AugRepay,JulRepay,JunRepay,MayRepay,AprRepay,SepBillAmt,AugBillAmt,JulBillAmt,JunBillAmt,MayBillAmt,AprBillAmt,SepPmt,AugPmt,JulPmt,JunPmt,MayPmt,AprPmt,Default_Status
 1,20000,female,university,1,24,2,2,-1,-1,-2,-2,3913,3102,689,0,0,0,0,689,0,0,0,0,default
 2,120000,female,university,2,26,-1,2,0,0,0,2,2682,1725,2682,3272,3455,3261,0,1000,1000,1000,0,2000,default
 3,90000,female,university,2,34,0,0,0,0,0,0,29239,14027,13559,14331,14948,15549,1518,1500,1000,1000,1000,5000,not default
